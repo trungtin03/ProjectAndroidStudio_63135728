@@ -46,5 +46,5 @@ dependencies {
     //add sdp ssp
     implementation("com.intuit.sdp:sdp-android:1.1.1")
     implementation("com.intuit.ssp:ssp-android:1.1.1")
-    implementation("com.airbnb.android:lottie:5.2.0")
+    implementation("com.airbnb.android:lottie:6.4.0")
 }
